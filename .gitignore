@@ -1,0 +1,4 @@
+/.env
+/ragvenv
+/requirements.txt
+/data/vector_store/chroma.sqlite3

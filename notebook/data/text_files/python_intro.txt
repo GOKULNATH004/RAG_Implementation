@@ -1,0 +1,7 @@
+Python is a high-level, interpreted programming language known for its readability and versatility. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python has a large standard library and a vibrant ecosystem of third-party packages, making it suitable for a wide range of applications such as web development, data analysis, artificial intelligence, scientific computing, and automation. Its simplicity and ease of learning have made it one of the most popular programming languages in the world.
+
+    Key features:
+    - Easy to learn and use
+    - Extensive standard library
+    - Strong community support
+    - Versatile and flexible

@@ -1,0 +1,6 @@
+Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computers to perform specific tasks without explicit instructions. Instead, these systems learn from and make predictions or decisions based on data. Machine learning can be broadly categorized into three types: supervised learning, unsupervised learning, and reinforcement learning.
+
+    Types of machine learning:
+    - Supervised Learning: The model is trained on a labeled dataset, meaning that each training example is paired with an output label. The goal is to learn a mapping from inputs to outputs.
+    - Unsupervised Learning: The model is given an unlabeled dataset and must find patterns or structures within the data, such as clustering or dimensionality reduction.
+    - Reinforcement Learning: The model learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. 
